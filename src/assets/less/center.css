@@ -1,0 +1,15 @@
+.vux-center {
+  text-align: center;
+  height: 50px;
+  color: #f0000f;
+}
+.header .h1 {
+  color: #f0000f;
+}
+.header p {
+  font-size: 13px;
+}
+.header p a {
+  background-color: #04be02;
+  font-weight: 500;
+}
